@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/mdformat-plugin/commit/38530fd7fa9eeac302cb89314ab043147db7e51a",
       "git:hexsha": "38530fd7fa9eeac302cb89314ab043147db7e51a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
