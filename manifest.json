@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "executablebooks",
+  "repo": "mdformat-plugin",
+  "versions": [
+    {
+      "commit": "38530fd7fa9eeac302cb89314ab043147db7e51a",
+      "parsed_at": "2026-10-21T21:33:37.819594+00:00",
+      "filetree": "filetree/38530fd7fa9eeac302cb89314ab043147db7e51a.nq.gz",
+      "blobs": [
+        "blob/2dbe033b6c9076223ceb94eb6cded6e79d655305.nq.gz",
+        "blob/8fff61c793824acdd7c77c5546cc23f5604e8468.nq.gz",
+        "blob/9706ae02d55cd3c25c5804d08e14819abb2da7fc.nq.gz",
+        "blob/31d6be20fe946cd21328f682f823ab79c7194ce5.nq.gz",
+        "blob/e06ffb1f404dd0b81395d397042a7d95f96c76dd.nq.gz",
+        "blob/1c98271eee002ca16ff436617bf5731f0ab656ef.nq.gz",
+        "blob/6e4b36f69920d70a52e297f13aa5ea374d7958b1.nq.gz",
+        "blob/d728245d7ba91638e2f291dc5a0900434bae8d98.nq.gz",
+        "blob/41054b978f397e482f675673fffcecb06b6dbf34.nq.gz",
+        "blob/68fc3bf1185e19a3cff47a7dca50a5f312a38925.nq.gz",
+        "blob/c284ba3d982fd2aee9983bee1a3ec1794970ebb2.nq.gz",
+        "blob/2a08e1cec4aa469911e5692d0c23f0635b63ad41.nq.gz",
+        "blob/e4817750c01d0c507074cdf8b7948f20b447be72.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
