@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "mdformat-plugin",
+  "versions": [
+    {
+      "commit": "38530fd7fa9eeac302cb89314ab043147db7e51a",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:35:59.933434+00:00"
+    }
+  ]
+}
